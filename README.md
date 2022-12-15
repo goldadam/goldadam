@@ -1,6 +1,3 @@
-<h1>jinwooshin's GIT</h1>
-
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=adamgold)](https://solved.ac/adamgold/)
 
