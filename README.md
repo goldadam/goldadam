@@ -1,5 +1,8 @@
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goldadam&show_icons=true&theme={theme})](https://github.com/goldadam/github-readme-stats)
-
+-->
+[![github stats](https://github-readme-stats.vercel.app/api?username=goldadam&show_icons=true&hide_border=true&theme=radical)](https://github.com/goldadam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldadam&layout=compact&theme=radical)](https://github.com/goldadam)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=adamgold)](https://solved.ac/adamgold/)
 
 <!---
