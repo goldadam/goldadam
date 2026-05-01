@@ -137,6 +137,9 @@
 
 * 전국센터 하역 품의 시스템화 및 세금계산서 / 전표발행 시스템화
 
+### **물류시스템 리뉴얼을 위한 내부 PI **
+
+* AS-IS 물류시스템 시스템 프로세스 분석 (주문확정, 관제, 정산, PDA 등) 물류시스템 일체 
 ---
 
 ⭐️ *If you like my work, feel free to star my repositories!*
