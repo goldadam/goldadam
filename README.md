@@ -9,8 +9,7 @@
 ## 📌 Contact
 
 * **Email**: [adamgold@naver.com](mailto:adamgold@naver.com)
-* **Phone**: 010-4850-3898
-* **Address**: 서울특별시 서초구 양재동
+* **Address**: 서울특별시 강서구 화곡동
 * **Github**: [https://github.com/goldadam](https://github.com/goldadam)
 * **Blog**: [https://adamgold.tistory.com/](https://adamgold.tistory.com/)
 
@@ -131,13 +130,12 @@
 * 입고 등록 시간 4min → 1min 이하로 단축
 * 재고 추적성 강화 및 관리자 기능 확장
 
-### **하역비 수기정산 시스템화 (25.09 ~ 진행 중)**
+### **하역비 수기정산 시스템화 (25.09 ~ 25.11)**
 
-* 기존 수기 하역비 정산업무 시스템화
+* 기타하역비 수기마감 및 품의 시스템 연동 및 세금계산서 / 전표발행 시스템화 
+  ### **하역비 본품의 시스템화 (25.09 ~ 25.12)**
 
-  ### **하역비 본품의 시스템화 (25.09 ~ 진행 중)**
-
-* 기존 수기 하역비 정산 및 품의 문서 작성업무 시스템화
+* 전국센터 하역 품의 시스템화 및 세금계산서 / 전표발행 시스템화
 
 ---
 
